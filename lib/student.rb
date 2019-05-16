@@ -8,4 +8,6 @@ class Student
     @id = id
     @grade = grade
   end
+  
+  def self.
 end
